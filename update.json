@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "7.0",
+  "versionCode": 9,
+  "versionName": "9.0",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "TV'de Açık kalan Menü düzeltildi.",
-    "TV'de TopBar'dan aşağıya kaydırma sorunu giderildi.",
-    "Oynatıcı ekranındaki kumanda desteği arttırıldı",
-    "Mobilde açılan, ancak TV'de açılmayan içerik sorunu giderildi."]
+    "TV'de Oynatma Sorunu Düzeltildi.",
+    "TV'deki Takılma ve Performans Sorunları Giderildi ",
+    "Oynatıcı ekranındaki kumanda desteği ve stabilizasyon sorunu giderildi.",
+    "Odak çizgisi ve öğelerin boyutu sorunu çözüldü."]
 }
