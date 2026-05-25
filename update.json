@@ -1,13 +1,11 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0",
+  "versionCode": 4,
+  "versionName": "4.0",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "Android TV ve Kumanda (D-Pad) yön tuşları uyumluluğu eklendi.",
-    "Oynatıcıda sağ/sol tuşlarla 10s ileri/geri sarma, orta (OK) tuşuyla duraklatma/başlatma desteği sağlandı.",
-    "İzlemeyi Devam Et bölümündeki içerikleri listeden kaldırabilmek için kırmızı silme (X) butonu eklendi.",
-    "Tek tıklamayla hızlı arama yapabilmeniz için Arama Geçmişi desteği getirildi.",
-    "Uygulama içi otomatik güncelleme ve arka planda ilerleme durumlu APK indirme mekanizması entegre edildi.",
-    "Düşük donanımlı televizyon ve TV box cihazlarında donma/kasmaları engellemek için görsel optimizasyonlar yapıldı."
-  ]
+    "TV'de Açık kalan Menü düzeltildi.",
+    "TV'de Hikayeler ekranındaki 'HEMEN İZLE' butonuna tıklamama sorunu giderildi.",
+    "Oynatıcı ekranı baştan tasarlandı TV Kumanda desteği arttırıldı",
+    "Mobilde açılan, ancak TV'de açılmayan içerik sorunu giderildi.",
+    ]
 }
