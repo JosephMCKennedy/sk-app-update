@@ -1,10 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "10.0",
+  "versionCode": 12,
+  "versionName": "V2.5",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "TV'de Oynatma Sorunu Düzeltildi.",
-    "TV'deki Takılma ve Performans Sorunları Giderildi ",
-    "Oynatıcı ekranındaki kumanda desteği ve stabilizasyon sorunu giderildi.",
-    "Odak çizgisi ve öğelerin boyutu sorunu çözüldü."]
+    "TV'de Üst Menü Barından aşağı inmeme sorunu giderildi.",
+    "İYİ SEYİRLER"]
 }
