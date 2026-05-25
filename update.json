@@ -1,6 +1,13 @@
 {
   "versionCode": 2,
-  "versionName": "1.0.1",
-  "url": "https://github.com/JosephMCKennedy/sk-app-update/app-release.apk",
-  "updateMessage": "Yeni özellikler eklendi, lütfen güncelleyin!"
+  "versionName": "1.1.0",
+  "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
+  "changelog": [
+    "Android TV ve Kumanda (D-Pad) yön tuşları uyumluluğu eklendi.",
+    "Oynatıcıda sağ/sol tuşlarla 10s ileri/geri sarma, orta (OK) tuşuyla duraklatma/başlatma desteği sağlandı.",
+    "İzlemeyi Devam Et bölümündeki içerikleri listeden kaldırabilmek için kırmızı silme (X) butonu eklendi.",
+    "Tek tıklamayla hızlı arama yapabilmeniz için Arama Geçmişi desteği getirildi.",
+    "Uygulama içi otomatik güncelleme ve arka planda ilerleme durumlu APK indirme mekanizması entegre edildi.",
+    "Düşük donanımlı televizyon ve TV box cihazlarında donma/kasmaları engellemek için görsel optimizasyonlar yapıldı."
+  ]
 }
