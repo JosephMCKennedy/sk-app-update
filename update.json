@@ -1,8 +1,10 @@
 {
-  "versionCode": 14,
+  "versionCode": 15,
   "versionName": "2.5",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "TV'de Üst Menü Barından aşağı inmeme sorunu giderildi.",
+    "Yeni kaynaklar eklendi.",
+    "İçerikleri çevrimdışı izleme özelliği getirildi.",
+    "Performans ve iyleştirmeler yapıldı.",
     "İYİ SEYİRLER"]
 }
