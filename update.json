@@ -1,8 +1,10 @@
 {
   "versionCode": 17,
-  "versionName": "4.0",
+  "versionName": "5.0",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "Stabilizasyon sorunu ve bilşinen hatalar giderildi.",
-    "İYİ SEYİRLER"]
+    "Menü ve akıcılık sağlandı.",
+    "İçeriklerin daha hızlı yüklenebilmesi için optimizasyonlar yapıldı.",
+    "Film/Dizi detay ekranı TV için optimize edildi."
+    ]
 }
