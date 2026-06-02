@@ -1,10 +1,12 @@
 {
-  "versionCode": 18,
+  "versionCode": 19,
   "versionName": "5.0",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "Menü ve akıcılık sağlandı.",
-    "İçeriklerin daha hızlı yüklenebilmesi için optimizasyonlar yapıldı.",
-    "Film/Dizi detay ekranı TV için optimize edildi."
+    "Tam ekran görünüm: Uygulama artık bildirim çubuğu altında kalmıyor, edge-to-edge,",
+    "Altyazı görünümü iyileştirildi: Canvas modu, Dış çizgi ayarı,",
+    "PiP (Picture-in-Picture) desteği: Videodayken ana ekrana dönünce küçük pencerede izleme,",
+    "Kategoriler Artık Çok Daha Düzenli.",
+    "İYİ SEYİRLER!",
     ]
 }
