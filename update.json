@@ -1,11 +1,10 @@
 {
-  "versionCode": 19,
-  "versionName": "5.0",
+  "versionCode": 20,
+  "versionName": "5.2",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "Tam ekran görünüm: Uygulama artık bildirim çubuğu altında kalmıyor, edge-to-edge,",
-    "Altyazı görünümü iyileştirildi: Canvas modu, Dış çizgi ayarı,",
-    "PiP (Picture-in-Picture) desteği: Videodayken ana ekrana dönünce küçük pencerede izleme,",
+    "Geri bildirim yaptığınız için teşekkür ederiz.,",
+    "Geri bildirimi yapılan sorunlar giderildi.",
     "Kategoriler Artık Çok Daha Düzenli.",
     "İYİ SEYİRLER!",
     ]
