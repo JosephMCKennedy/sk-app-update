@@ -1,10 +1,14 @@
 {
-  "versionCode": 21,
-  "versionName": "5.4",
+  "versionCode": 22,
+  "versionName": "12.0",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "Geri bildirimi yapılan sorunlar giderildi.",
-    "Uygulamaya yönelik optimizasyonlar yapıldı.",
-    "İYİ SEYİRLER!"
-    ]
+    "Hesap Oluşturma: E-posta zorunluluğu olmadan sadece Kullanıcı Adı ve Şifre ile anında kayıt olabilme imkanı getirildi.",
+    "(E-posta girilmeden kayıt olunduğunda şifremi unuttum kısmı çalışmaz. Şifrenizi unuttuğunuzda hesaba erişimi kaybedebilirsiniz.)",
+    "Veri Senkronizasyonu: İzleme geçmişinizi ve listelerinizi cihazınız ile bulut arasında birleştirme özelliği eklendi.",
+    "Yenilenen Yan Menü: Daha derli toplu açılır-kapanır Kategoriler menüsü ve yeni arayüz eklendi.",
+    "Bizi Destekleyin: Yan menü üzerinden reklam izleyerek uygulamamıza destek olabilirsiniz.",
+    "Performans ve Arayüz İyileştirmeleri Yapıldı.",
+    "En yeni özellikler çok yakında! İYİ SEYİRLER!"
+  ]
 }
