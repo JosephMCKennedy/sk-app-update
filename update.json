@@ -1,13 +1,11 @@
 {
-  "versionCode": 23,
+  "versionCode": 24,
   "versionName": "12.0",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
     "Güncellemeden sonra uygulama kapanıp açılırsa lütfen uygulamayı silerek tekrar indirin.",
-    "Kullanıcı Adı, E-Posta ve şifre ile kayıt olma ve giriş yapma.",
-    "Yedekleme özelliği sayesinde, cihaz değiştirseniz bile izleme geçmişiniz, listeleriniz hep sizinle.",
-    "Takvim Menüsü, yayınlanan veya yayınlanacak Film/Dizi bölümlerinizi takip edebilirsiniz.",
-    "İzleme Partisi seçeneği ile arkadaşlarınızla aynı anda Film/Dizi izleme keyfi.",
+    "Arayüz güncellendi",
+    "Destek Sistemi Oluşturuldu, sorunları ve istekleri destek üzerinden bildirebilirsiniz.",
     "TV kumandasını kullanmadan, mobil cihazınızdan izleyeceğiniz içeriği direkt olarak TV'ye gönderme.(Chromecast değil)",
     "(Bu Özellik için iki cihazda da aynı hesabın açık olması gerekir.)",
     "Film/Dizilerde yorumlar özelliği getirildi.",
