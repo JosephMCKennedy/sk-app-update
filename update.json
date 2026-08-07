@@ -1,12 +1,11 @@
 {
-  "versionCode": 25,
+  "versionCode": 27,
   "versionName": "12.0",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "TV Kumandasında çalışmayan fonksiyonlar düzeltildi.",
-    "İzleme geçmişine göre önerilmeye değer içeriklerin oranı arttırıldı.",
-    "Dizilerde sonraki bölüme otomatik olarak geçme özelliği eklendi.",
-    "Performans ve Arayüz İyileştirmeleri Yapıldı.",
+    "Kaynak, Arama, Altyazı optimizasyonu yapıldı.",
+    "Uygulama içerisinde karşılaşılan sorunlar giderildi.",
+    "Uygulama optimizasyonuna yönelik iyileştirmeler sağlandı.",
     "Herhangi bir sorunu destek sisteminden bildirebilirsiniz! İYİ SEYİRLER!"
   ]
 }
