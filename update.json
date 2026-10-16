@@ -1,5 +1,5 @@
 {
-  "versionCode": 28,
+  "versionCode": 29,
   "versionName": "12.0",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
@@ -7,6 +7,7 @@
     "Film/Dizi evrenine yönelik otomatik kullanıcı önerileri.",
     "Görsel iyileştirmeler yapıldı.",
     "Hız ve optimizasyona yönelik çalışmalar yapıldı.",
+    "Kaynak geliştirmeleri yapıldı.",
     "Sosyal sinema platformu olma yolunda adım adım ilerliyoruz.",
     "En yeni ve benzersiz özellikler çok yakında.",
     "Herhangi bir sorunu destek sisteminden bildirebilirsiniz! İYİ SEYİRLER!"
