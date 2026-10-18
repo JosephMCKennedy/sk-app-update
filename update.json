@@ -1,15 +1,14 @@
 {
-  "versionCode": 29,
-  "versionName": "12.2",
+  "versionCode": 31,
+  "versionName": "12.3",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "Reklamlar azaltıldı.",
-    "3 Farklı Player tasarımı yapıldı. Lite - Standart - Pro Player.",
-    "Pro Playerda hız ayarı slider şeklinde yapıldı.",
+    "Uygulama kararlılığı arttırıldı.",
+    "Playerlardaki kumanda sorunu giderildi.",
+    "TV Cihazlarında reklamdan çıkamama sorununa yönelik çalışma yapıldı.",
     "Sayfalarda bir içeriği inceledikten sonra sayfanın en üstüne atma sorunu giderildi.",
     "Düşük donanımlı veya eski cihazlarda akıcılığı sağlayan düşük donanım modu eklendi.",
-    "Sosyal sinema platformu olma yolunda adım adım ilerliyoruz.",
-    "En yeni ve benzersiz özellikler çok yakında.",
+    "Geri Bildirimleriniz Bizim İçin Önemlidir.",
     "Herhangi bir sorunu destek sisteminden bildirebilirsiniz! Reklam İzleyerek Bizlere Destek Olabilirsiniz. İYİ SEYİRLER!"
   ]
 }
