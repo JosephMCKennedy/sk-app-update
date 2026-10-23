@@ -1,12 +1,11 @@
 {
-  "versionCode": 32,
-  "versionName": "12.4",
+  "versionCode": 33,
+  "versionName": "12.5",
   "MinVersionName": "12.4",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "TV'de tüm oynatıcı ve kumanda sorunları giderildi.",
-    "Popüler Platformlara yenileri eklendi.",
-    "Açılmayan içerikler için kaynak desteği arttırıldı. Yabancı kaynaklardan içerik oynatılması daha kararlı çalışıyor.",
+    "TV'de film/dizi oynatılırken donma sorunu ile ilgili çalışma yapıldı",
+    "Kaynaklar genişletildi.",
     "Geri bildirimi yapılan sorunlara yönelik çalışmalar yapıldı.",
     "Geri Bildirimleriniz Bizim İçin Önemlidir.",
     "Herhangi bir sorunu destek sisteminden bildirebilirsiniz! Reklam İzleyerek Bizlere Destek Olabilirsiniz. İYİ SEYİRLER!"
