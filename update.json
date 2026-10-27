@@ -1,12 +1,14 @@
 {
-  "versionCode": 33,
-  "versionName": "12.5",
+  "versionCode": 34,
+  "versionName": "12.6",
   "MinVersionName": "12.4",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "TV'de film/dizi oynatılırken donma sorunu ile ilgili çalışma yapıldı",
-    "Kaynaklar genişletildi.",
-    "Geri bildirimi yapılan sorunlara yönelik çalışmalar yapıldı.",
+    "Kısa/Reels (Dikey Kaydırmalı) Dizileri eklendi,",
+    "Dizi Bölümlerini kaldığınız yerden takip edebilmek için bölüm kartları belirgin şekilde işaretleniyor,",
+    "İçerikleri arkadaşlarınızla paylaşabilmeniz için Paylaş butonu eklendi,",
+    "Profil ekranı tasarımı iyileştirildi,",
+    "Geri bildirimi yapılan sorunlara yönelik çalışmalar yapıldı,",
     "Geri Bildirimleriniz Bizim İçin Önemlidir.",
     "Herhangi bir sorunu destek sisteminden bildirebilirsiniz! Reklam İzleyerek Bizlere Destek Olabilirsiniz. İYİ SEYİRLER!"
   ]
