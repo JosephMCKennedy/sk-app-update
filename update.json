@@ -1,7 +1,7 @@
 {
   "versionCode": 34,
   "versionName": "12.6",
-  "MinVersionName": "12.6",
+  "MinVersionName": "12.5",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
     "Kısa/Reels (Dikey Kaydırmalı) Dizileri eklendi,",
