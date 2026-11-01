@@ -1,15 +1,19 @@
 {
-  "versionCode": 34,
-  "versionName": "12.6",
+  "versionCode": 35,
+  "versionName": "12.7",
   "MinVersionName": "12.6",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-    "Kısa/Reels (Dikey Kaydırmalı) Dizileri eklendi,",
-    "Dizi Bölümlerini kaldığınız yerden takip edebilmek için bölüm kartları belirgin şekilde işaretleniyor,",
-    "İçerikleri arkadaşlarınızla paylaşabilmeniz için Paylaş butonu eklendi,",
-    "Profil ekranı tasarımı iyileştirildi,",
-    "Geri bildirimi yapılan sorunlara yönelik çalışmalar yapıldı,",
-    "Geri Bildirimleriniz Bizim İçin Önemlidir.",
-    "Herhangi bir sorunu destek sisteminden bildirebilirsiniz! Reklam İzleyerek Bizlere Destek Olabilirsiniz. İYİ SEYİRLER!"
+  "Seyir-Ci sistemi oluşturuldu. Profilinizden artık akışlarınızı takip edebilir, profilinizi herkese açık yapabilirsiniz.",
+  "Profilinizde, biyografi, en sevdiğiniz replikler ve en sevdiğiniz Film/Dizi'yi gösterebilirsiniz.",
+	"Profilinizde Film/Dizi/Anime paylaşımı yapabilir, önerebilirsiniz.",
+	"Koleksiyon sistemi getirildi, Koleksiyonlar listelerden farklıdır oluşturduğunuz koleksiyondaki tüm içerikleri baştan sonra izleyebilirsiniz.",
+	"Sinema dünyasındaki gelişmeleri ve haberleri ana sayfada görebileceksiniz.",
+	"Reels Dizi sorunu düzeltildi.",
+  "İçeriklerin mümkün olduğunca daha hızlı açılabilesi için çalışma yapıldı.",
+  "Canlı Destek sistemi niyetimiz suitsimal edildiği için kaldırıldı.",
+	"Geri bildirimi yapılan sorunlara yönelik çalışmalar yapıldı.",
+  "Geri Bildirimleriniz Bizim İçin Önemlidir!",
+  "Herhangi bir sorunu E-Posta ile bildirebilirsiniz! Reklam İzleyerek Bizlere Destek Olabilirsiniz. İYİ SEYİRLER!"
   ]
 }
