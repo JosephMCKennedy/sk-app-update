@@ -1,7 +1,7 @@
 {
   "versionCode": 35,
   "versionName": "12.7",
-  "MinVersionName": "12.6",
+  "MinVersionName": "12.7",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
   "Seyir-Ci sistemi oluşturuldu. Profilinizden artık akışlarınızı takip edebilir, profilinizi herkese açık yapabilirsiniz.",
