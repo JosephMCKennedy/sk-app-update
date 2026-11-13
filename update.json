@@ -1,18 +1,15 @@
 {
-  "versionCode": 35,
-  "versionName": "12.7",
+  "versionCode": 36,
+  "versionName": "12.8",
   "MinVersionName": "12.7",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-  "Seyir-Ci sistemi oluşturuldu. Profilinizden artık akışlarınızı takip edebilir, profilinizi herkese açık yapabilirsiniz.",
-  "Profilinizde, biyografi, en sevdiğiniz replikler ve en sevdiğiniz Film/Dizi'yi gösterebilirsiniz.",
-	"Profilinizde Film/Dizi/Anime paylaşımı yapabilir, önerebilirsiniz.",
-	"Koleksiyon sistemi getirildi, Koleksiyonlar listelerden farklıdır oluşturduğunuz koleksiyondaki tüm içerikleri baştan sonra izleyebilirsiniz.",
-	"Sinema dünyasındaki gelişmeleri ve haberleri ana sayfada görebileceksiniz.",
-	"Reels Dizi sorunu düzeltildi.",
-  "İçeriklerin mümkün olduğunca daha hızlı açılabilesi için çalışma yapıldı.",
-  "Canlı Destek sistemi niyetimiz suitsimal edildiği için kaldırıldı.",
-	"Geri bildirimi yapılan sorunlara yönelik çalışmalar yapıldı.",
+  "Abonelik Sistemi Aktif SeyirKutusu MAX üyeliği alarak Reklamsız ve Reklam Engelleyici uyarısı olmadan kullanım sağlayabilirsiniz.",
+  "Kısa Dizi Açılmama Sorunu Giderildi.",
+  "Sinema Haberleri Keşfet Ekranına Taşındı.",
+  "Altyazı boyut ve konum ayarı daha özgür player ekranında istediğini yere taşıyabilir ve istediğiniz boyutu ayarlayabilirsiniz.",
+  "İndirilen içeriklerin silinmemesi sorunu düzeltildi.",
+  "Geri bildirimi yapılan sorunlara yönelik çalışmalar yapıldı.",
   "Geri Bildirimleriniz Bizim İçin Önemlidir!",
   "Herhangi bir sorunu E-Posta ile bildirebilirsiniz! Reklam İzleyerek Bizlere Destek Olabilirsiniz. İYİ SEYİRLER!"
   ]
