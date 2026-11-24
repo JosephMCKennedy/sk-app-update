@@ -1,14 +1,12 @@
 {
   "versionCode": 36,
-  "versionName": "12.8",
+  "versionName": "12.9",
   "MinVersionName": "12.8",
   "apkUrl": "https://josephmckennedy.github.io/sk-app-update/app-release.apk",
   "changelog": [
-  "Abonelik Sistemi Aktif SeyirKutusu MAX üyeliği alarak Reklamsız ve Reklam Engelleyici uyarısı olmadan kullanım sağlayabilirsiniz.",
-  "Kısa Dizi Açılmama Sorunu Giderildi.",
-  "Sinema Haberleri Keşfet Ekranına Taşındı.",
-  "Altyazı boyut ve konum ayarı daha özgür player ekranında istediğini yere taşıyabilir ve istediğiniz boyutu ayarlayabilirsiniz.",
-  "İndirilen içeriklerin silinmemesi sorunu düzeltildi.",
+  "Bazı kullanıcılarda Reklam Engelleyici olmamasına rağmen, Reklam Engelleyici uyarısına yönelik çalışma yapıldı.",
+  "İçerik Açılmama sorununa yönelik çalışmalar yapıldı.",
+  "Kararlılık ve Optimizasyon çalışmaları yapıldı.",
   "Geri bildirimi yapılan sorunlara yönelik çalışmalar yapıldı.",
   "Geri Bildirimleriniz Bizim İçin Önemlidir!",
   "Herhangi bir sorunu E-Posta ile bildirebilirsiniz! Reklam İzleyerek Bizlere Destek Olabilirsiniz. İYİ SEYİRLER!"
